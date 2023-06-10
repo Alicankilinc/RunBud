@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - alev(ikon)
+  - buz(ikon)
+  - kalkan(ikon)
+  - diken(ikon)
+  - kurt(ikon)
+  - throwable
+  - Anakarakter
+  - enemy
+  - firlatma(ikon)
+  - freezer
+  - simsek(ikon)
+  - lightning
+  - hurricane(ikon)
+  - Wolff
+  - donertekme
+  - killerparkour
+  - zombici
+  - zombili
+  - sifirlayici
+  - sifirladi
+  - level2getir
+  - level3getir
+  - level1getir
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
